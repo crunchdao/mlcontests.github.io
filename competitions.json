@@ -6118,15 +6118,17 @@
       "name": "ARC Prize 2026 - ARC-AGI-2",
       "url": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-2?ref=mlcontests",
       "tags": [
-        "artificial intelligence",
-        "custom metric"
+        "reasoning",
+        "supervised",
+        "generative",
+        "measurable"
       ],
       "launched": "25 Mar 2026",
       "registration-deadline": "26 Oct 2026",
       "deadline": "2 Nov 2026",
       "prize": "$700,000",
       "platform": "Kaggle",
-      "sponsor": "Abstraction and Reasoning Corpus",
+      "sponsor": "ARC Prize",
       "conference": null,
       "conference_year": null
     },
@@ -6134,16 +6136,17 @@
       "name": "ARC Prize 2026 - ARC-AGI-3",
       "url": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3?ref=mlcontests",
       "tags": [
-        "artificial intelligence",
-        "general knowledge and reasoning",
-        "custom metric"
+        "reasoning",
+        "supervised",
+        "generative",
+        "measurable"
       ],
       "launched": "25 Mar 2026",
       "registration-deadline": "26 Oct 2026",
       "deadline": "2 Nov 2026",
       "prize": "$850,000",
       "platform": "Kaggle",
-      "sponsor": "Abstraction and Reasoning Corpus",
+      "sponsor": "ARC Prize",
       "conference": null,
       "conference_year": null
     },
@@ -6151,15 +6154,16 @@
       "name": "ARC Prize 2026 - Paper Track",
       "url": "https://www.kaggle.com/competitions/arc-prize-2026-paper-track?ref=mlcontests",
       "tags": [
-        "artificial intelligence",
-        "general knowledge and reasoning"
+        "reasoning",
+        "writing",
+        "subjective"
       ],
       "launched": "25 Mar 2026",
       "registration-deadline": null,
       "deadline": "9 Nov 2026",
       "prize": "$450,000",
       "platform": "Kaggle",
-      "sponsor": "Abstraction and Reasoning Corpus",
+      "sponsor": "ARC Prize",
       "conference": null,
       "conference_year": null
     }

@@ -5792,8 +5792,8 @@
         "supervised",
         "classification",
         "science",
-	    "measurable",
-	    "geo"
+        "measurable",
+        "geo"
       ],
       "launched": "27 Mar 2026",
       "registration-deadline": "25 May 2026",
@@ -5804,7 +5804,7 @@
       "conference": null,
       "conference_year": null
     },
-    {  
+    {
       "name": "March ML Mania: Forecast College Basketball Tournaments",
       "url": "https://www.kaggle.com/competitions/march-machine-learning-mania-2026?ref=mlcontests",
       "tags": [
@@ -5827,7 +5827,7 @@
       "tags": [
         "llm",
         "subjective",
-		"safety"
+        "safety"
       ],
       "launched": "20 Mar 2026",
       "registration-deadline": "20 Apr 2026",
@@ -5861,9 +5861,9 @@
       "url": "https://zindi.africa/competitions/climate-health-risk-prediction-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
       "tags": [
         "supervised",
-	    "tabular",
-		"measurable",
-		"classification",
+        "tabular",
+        "measurable",
+        "classification",
         "geo"
       ],
       "launched": "28 Mar 2026",
@@ -5881,8 +5881,8 @@
       "tags": [
         "supervised",
         "classification",
-	    "measurable",
-	    "tabular"
+        "measurable",
+        "tabular"
       ],
       "launched": "28 Mar 2026",
       "registration-deadline": "29 Mar 2026",
@@ -5899,8 +5899,8 @@
       "tags": [
         "supervised",
         "classification",
-		"recommendation",
-		"measurable"
+        "recommendation",
+        "measurable"
       ],
       "launched": "28 Mar 2026",
       "registration-deadline": "29 Mar 2026",
@@ -6085,8 +6085,8 @@
       "tags": [
         "supervised",
         "vision",
-		"classification",
-		"measurable"
+        "classification",
+        "measurable"
       ],
       "launched": "28 Mar 2026",
       "registration-deadline": "29 Mar 2026",
@@ -6111,6 +6111,59 @@
       "prize": "$200,000",
       "platform": "Kaggle",
       "sponsor": "Google DeepMind",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "ARC Prize 2026 - ARC-AGI-2",
+      "url": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-2?ref=mlcontests",
+      "tags": [
+        "reasoning",
+        "supervised",
+        "generative",
+        "measurable"
+      ],
+      "launched": "25 Mar 2026",
+      "registration-deadline": "26 Oct 2026",
+      "deadline": "2 Nov 2026",
+      "prize": "$700,000",
+      "platform": "Kaggle",
+      "sponsor": "ARC Prize",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "ARC Prize 2026 - ARC-AGI-3",
+      "url": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3?ref=mlcontests",
+      "tags": [
+        "reasoning",
+        "supervised",
+        "generative",
+        "measurable"
+      ],
+      "launched": "25 Mar 2026",
+      "registration-deadline": "26 Oct 2026",
+      "deadline": "2 Nov 2026",
+      "prize": "$850,000",
+      "platform": "Kaggle",
+      "sponsor": "ARC Prize",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "ARC Prize 2026 - Paper Track",
+      "url": "https://www.kaggle.com/competitions/arc-prize-2026-paper-track?ref=mlcontests",
+      "tags": [
+        "reasoning",
+        "writing",
+        "subjective"
+      ],
+      "launched": "25 Mar 2026",
+      "registration-deadline": null,
+      "deadline": "9 Nov 2026",
+      "prize": "$450,000",
+      "platform": "Kaggle",
+      "sponsor": "ARC Prize",
       "conference": null,
       "conference_year": null
     }

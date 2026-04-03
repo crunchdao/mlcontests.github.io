@@ -6221,6 +6221,23 @@
       "sponsor": "ARC Prize",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "Use Gemma 4 Models to Solve Real-World Problems",
+      "url": "https://www.kaggle.com/competitions/gemma-4-good-hackathon?ref=mlcontests",
+      "tags": [
+        "hackathon",
+        "llm",
+        "subjective"
+      ],
+      "launched": "2 Apr 2026",
+      "registration-deadline": null,
+      "deadline": "18 May 2026",
+      "prize": "$200,000",
+      "platform": "Kaggle",
+      "sponsor": "Google DeepMind",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }

@@ -6166,6 +6166,23 @@
       "sponsor": "ARC Prize",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "The Gemma 4 Good Hackathon",
+      "url": "https://www.kaggle.com/competitions/gemma-4-good-hackathon?ref=mlcontests",
+      "tags": [
+        "artificial intelligence",
+        "tabular",
+        "text"
+      ],
+      "launched": "2 Apr 2026",
+      "registration-deadline": null,
+      "deadline": "18 May 2026",
+      "prize": "$200,000",
+      "platform": "Kaggle",
+      "sponsor": "Google DeepMind",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }

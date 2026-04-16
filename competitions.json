@@ -6262,6 +6262,25 @@
       "sponsor": "Google DeepMind",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "The 2026 NeuroGolf Championship",
+      "url": "https://www.kaggle.com/competitions/neurogolf-2026?ref=mlcontests",
+      "tags": [
+        "golf",
+        "artificial intelligence",
+        "neural networks",
+        "optimization",
+        "custom metric"
+      ],
+      "launched": "15 Apr 2026",
+      "registration-deadline": "8 Jul 2026",
+      "deadline": "15 Jul 2026",
+      "prize": "$50,000",
+      "platform": "Kaggle",
+      "sponsor": "The Neurosynthetic Research Institute",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }

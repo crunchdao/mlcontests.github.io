@@ -6262,6 +6262,25 @@
       "sponsor": "Google DeepMind",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "Build Tiny Neural Nets to Solve Visual Reasoning Tasks",
+      "url": "https://www.kaggle.com/competitions/neurogolf-2026?ref=mlcontests",
+      "tags": [
+        "llm",
+        "efficiency",
+        "measurable",
+        "supervised",
+        "deep learning"
+      ],
+      "launched": "15 Apr 2026",
+      "registration-deadline": "8 Jul 2026",
+      "deadline": "15 Jul 2026",
+      "prize": "$50,000",
+      "platform": "Kaggle",
+      "sponsor": "The Neurosynthetic Research Institute",
+      "conference": "IJCAI-ECAI",
+      "conference_year": 2026
     }
   ]
 }

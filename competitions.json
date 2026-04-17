@@ -6281,6 +6281,24 @@
       "sponsor": "The Neurosynthetic Research Institute",
       "conference": "IJCAI-ECAI",
       "conference_year": 2026
+    },
+    {
+      "name": "Create Bots to Play a Space-Based 2D Strategy Game",
+      "url": "https://www.kaggle.com/competitions/orbit-wars?ref=mlcontests",
+      "tags": [
+        "game",
+        "pvp",
+        "reinforcement learning",
+        "measurable"        
+      ],
+      "launched": "16 Apr 2026",
+      "registration-deadline": "16 Jun 2026",
+      "deadline": "23 Jun 2026",
+      "prize": "$50,000",
+      "platform": "Kaggle",
+      "sponsor": "Kaggle",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }

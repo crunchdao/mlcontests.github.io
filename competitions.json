@@ -6283,13 +6283,14 @@
       "conference_year": 2026
     },
     {
-      "name": "Orbit Wars",
+      "name": "Create Bots to Play a Space-Based 2D Strategy Game",
       "url": "https://www.kaggle.com/competitions/orbit-wars?ref=mlcontests",
       "tags": [
-        "games",
-        "artificial intelligence",
+        "game",
+        "pvp",
         "reinforcement learning",
-        "custom metric"
+        "measurable",
+        
       ],
       "launched": "16 Apr 2026",
       "registration-deadline": "16 Jun 2026",

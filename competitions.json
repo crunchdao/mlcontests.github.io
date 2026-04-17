@@ -6299,6 +6299,23 @@
       "sponsor": "Kaggle",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "Identify dangerous or unsafe statements embedded within AI agent conversations",
+      "url": "https://bitgrit.net/competition/27",
+      "tags": [
+        "nlp",
+        "classification",
+        "supervised"       
+      ],
+      "launched": "1 Apr 2026",
+      "registration-deadline": "31 May 2026",
+      "deadline": "31 May 2026",
+      "prize": "$3,000",
+      "platform": "Bitgrit",
+      "sponsor": "Bitgrit",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }

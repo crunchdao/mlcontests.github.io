@@ -6301,12 +6301,13 @@
       "conference_year": null
     },
     {
-      "name": "Classify AI Outputs",
+      "name": "Identify Harmful LLM Outputs",
       "url": "https://bitgrit.net/competition/27",
       "tags": [
         "nlp",
         "classification",
-        "supervised"       
+        "supervised",
+        "measurable"
       ],
       "launched": "1 Apr 2026",
       "registration-deadline": "31 May 2026",

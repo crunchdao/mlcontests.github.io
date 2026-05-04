@@ -1,6 +1,30 @@
 {
   "data": [
     {
+      "name": "Foundation Models for General CT Image Diagnosis",
+      "url": "https://www.codabench.org/competitions/12650/?ref=mlcontests",
+      "tags": [
+        "measurable",
+        "supervised",
+        "classification",
+        "vision",
+        "medical",
+        "science",
+        "deep learning"
+      ],
+      "deadline": "15 May 2026",
+      "added": "15 Apr 2026",
+      "prize": null,
+      "additional_prizes": "Amazon gift cards (300/200/100 CAD) for top 3 if >20 docker submissions; oral presentation invitation for top 3; poster presentation invitation for top 10; souvenirs for top 4-10; certificates for top 10",
+      "platform": "Codabench",
+      "sponsor": null,
+      "conference": "CVPR",
+      "conference-year": 2026,
+      "additional_urls": [
+        "https://fmv-cvpr26workshop.github.io/"
+      ]
+    },
+    {
       "name": "Predict Liver-Related Events from Synthetic Patient Data",
       "url": "https://annitia.trustii.io/?ref=mlcontests",
       "tags": [
@@ -37,7 +61,7 @@
       "registration-deadline": "30 Mar 2026",
       "deadline": "11 May 2026 Apr 2026",
       "prize": "$1,100,000",
-      "platform": "CrunchDAO",
+      "platform": "Independent",
       "sponsor": "AMD, GPU Mode",
       "conference": null,
       "conference_year": null
@@ -5786,14 +5810,14 @@
       "conference_year": null
     },
     {
-      "name": "EY Biodiversity Challenge",
+      "name": "Predict Frog Species from Climate Variables",
       "url": "https://zindi.africa/competitions/ey-biodiversity-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
       "tags": [
         "supervised",
         "classification",
         "science",
-	    "measurable",
-	    "geo"
+        "measurable",
+        "geo"
       ],
       "launched": "27 Mar 2026",
       "registration-deadline": "25 May 2026",
@@ -5822,18 +5846,19 @@
       "conference_year": null
     },
     {
-      "name": "The African Trust & Safety LLM Challenge",
+      "name": "Identify LLM Failure Modes in African Contexts",
       "url": "https://zindi.africa/competitions/the-african-trust-safety-llm-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
       "tags": [
         "llm",
-        "subjective"
+        "subjective",
+        "safety"
       ],
       "launched": "20 Mar 2026",
       "registration-deadline": "20 Apr 2026",
       "deadline": "20 Apr 2026",
       "prize": "$5,000",
       "platform": "Zindi",
-      "sponsor": "CASSAVA, AMINI, meetkai, Qhala, LELAPA AI, MTN, Lanfrica, vodacom, orange ethio telecom, World Sandbox Alliance, Masakhane, MOZISHA, Pawa AI, APHRC, TOUMAI, Digital Umuganda, airtel, capsele, AXUM, TELECOM, awarri, DATA SPIRES fBIS",
+      "sponsor": "CASSAVA, AMINI, meetkai, Qhala, LELAPA AI, MTN",
       "conference": null,
       "conference_year": null
     },
@@ -5856,11 +5881,13 @@
       "conference_year": null
     },
     {
-      "name": "AI4EAC Climate & Health Risk Prediction Challenge",
+      "name": "Classify Climate-sensitive Deaths",
       "url": "https://zindi.africa/competitions/climate-health-risk-prediction-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
       "tags": [
         "supervised",
-        "prediction",
+        "tabular",
+        "measurable",
+        "classification",
         "geo"
       ],
       "launched": "28 Mar 2026",
@@ -5873,11 +5900,13 @@
       "conference_year": null
     },
     {
-      "name": "AI4EAC Liquidity Stress Early Warning Challenge",
+      "name": "Predict Household Financial Stress",
       "url": "https://zindi.africa/competitions/liquidity-stress-early-warning-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
       "tags": [
         "supervised",
-        "prediction"
+        "classification",
+        "measurable",
+        "tabular"
       ],
       "launched": "28 Mar 2026",
       "registration-deadline": "29 Mar 2026",
@@ -5889,11 +5918,13 @@
       "conference_year": null
     },
     {
-      "name": "AI4EAC Skills2Job Intelligent Career Pathways Challenge [INTERMEDIATE]",
+      "name": "Recommend Occupations Based on Skills",
       "url": "https://zindi.africa/competitions/skills2job-intelligent-career-pathways-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
       "tags": [
         "supervised",
-        "classification"
+        "classification",
+        "recommendation",
+        "measurable"
       ],
       "launched": "28 Mar 2026",
       "registration-deadline": "29 Mar 2026",
@@ -6073,11 +6104,13 @@
       "conference_year": null
     },
     {
-      "name": "AI4EAC Bean Flowering Detection Challenge [ADVANCED]",
+      "name": "Identify Bean Plants in Images",
       "url": "https://zindi.africa/competitions/bean-flowering-detection-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
       "tags": [
         "supervised",
-        "vision"
+        "vision",
+        "classification",
+        "measurable"
       ],
       "launched": "28 Mar 2026",
       "registration-deadline": "29 Mar 2026",
@@ -6106,11 +6139,13 @@
       "conference_year": null
     },
     {
-      "name": "TAHMO Incoming Solar Radiation Prediction Challenge",
+      "name": "Predict Solar Radiation at Weather Stations",
       "url": "https://zindi.africa/competitions/tahmo-incoming-solar-radiation-prediction-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
       "tags": [
         "supervised",
         "prediction",
+        "regression",
+        "geo",
         "satellite"
       ],
       "launched": "01 Apr 2026",
@@ -6123,33 +6158,72 @@
       "conference_year": null
     },
     {
-      "name": "Nedbank Transaction Volume Forecasting Challenge",
+      "name": "ARC Prize 2026 - ARC-AGI-2",
+      "url": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-2?ref=mlcontests",
+      "tags": [
+        "reasoning",
+        "supervised",
+        "generative",
+        "measurable"
+      ],
+      "launched": "25 Mar 2026",
+      "registration-deadline": "26 Oct 2026",
+      "deadline": "2 Nov 2026",
+      "prize": "$700,000",
+      "platform": "Kaggle",
+      "sponsor": "ARC Prize",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Predict Bank Transaction Volume from Behavioural Signals",
       "url": "https://zindi.africa/competitions/nedbank-transaction-volume-forecasting-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
       "tags": [
         "supervised",
         "forecasting",
-        "timeseries"
+        "timeseries",
+        "regression",
+        "measurable"
       ],
       "launched": "01 Apr 2026",
       "registration-deadline": "04 May 2026",
       "deadline": "04 May 2026",
-      "prize": "R250,000",
+      "prize": "$15,000",
       "platform": "Zindi",
       "sponsor": "Nedbank",
       "conference": null,
       "conference_year": null
     },
     {
-      "name": "Telco Troubleshooting Agentic Challenge",
+      "name": "ARC Prize 2026 - ARC-AGI-3",
+      "url": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3?ref=mlcontests",
+      "tags": [
+        "reasoning",
+        "supervised",
+        "generative",
+        "measurable"
+      ],
+      "launched": "25 Mar 2026",
+      "registration-deadline": "26 Oct 2026",
+      "deadline": "2 Nov 2026",
+      "prize": "$850,000",
+      "platform": "Kaggle",
+      "sponsor": "ARC Prize",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Build AI Agents for Telecom Network Troubleshooting",
       "url": "https://zindi.africa/competitions/telco-troubleshooting-agentic-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
       "tags": [
         "llm",
-        "agents"
+        "agents",
+        "measurable"
       ],
       "launched": "01 Apr 2026",
       "registration-deadline": "19 May 2026",
       "deadline": "19 May 2026",
-      "prize": "€40,000",
+      "prize": "$46,000",
       "platform": "Zindi",
       "sponsor": "HUAWEI",
       "conference": null,
@@ -6171,6 +6245,95 @@
       "prize": "$5,000",
       "platform": "Zindi",
       "sponsor": "ITU, Hash",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "ARC Prize 2026 - Paper Track",
+      "url": "https://www.kaggle.com/competitions/arc-prize-2026-paper-track?ref=mlcontests",
+      "tags": [
+        "reasoning",
+        "writing",
+        "subjective"
+      ],
+      "launched": "25 Mar 2026",
+      "registration-deadline": null,
+      "deadline": "9 Nov 2026",
+      "prize": "$450,000",
+      "platform": "Kaggle",
+      "sponsor": "ARC Prize",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Use Gemma 4 Models to Solve Real-World Problems",
+      "url": "https://www.kaggle.com/competitions/gemma-4-good-hackathon?ref=mlcontests",
+      "tags": [
+        "hackathon",
+        "llm",
+        "subjective"
+      ],
+      "launched": "2 Apr 2026",
+      "registration-deadline": null,
+      "deadline": "18 May 2026",
+      "prize": "$200,000",
+      "platform": "Kaggle",
+      "sponsor": "Google DeepMind",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Build Tiny Neural Nets to Solve Visual Reasoning Tasks",
+      "url": "https://www.kaggle.com/competitions/neurogolf-2026?ref=mlcontests",
+      "tags": [
+        "llm",
+        "efficiency",
+        "measurable",
+        "supervised",
+        "deep learning"
+      ],
+      "launched": "15 Apr 2026",
+      "registration-deadline": "8 Jul 2026",
+      "deadline": "15 Jul 2026",
+      "prize": "$50,000",
+      "platform": "Kaggle",
+      "sponsor": "The Neurosynthetic Research Institute",
+      "conference": "IJCAI-ECAI",
+      "conference_year": 2026
+    },
+    {
+      "name": "Create Bots to Play a Space-Based 2D Strategy Game",
+      "url": "https://www.kaggle.com/competitions/orbit-wars?ref=mlcontests",
+      "tags": [
+        "game",
+        "pvp",
+        "reinforcement learning",
+        "measurable"        
+      ],
+      "launched": "16 Apr 2026",
+      "registration-deadline": "16 Jun 2026",
+      "deadline": "23 Jun 2026",
+      "prize": "$50,000",
+      "platform": "Kaggle",
+      "sponsor": "Kaggle",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Identify Harmful LLM Outputs",
+      "url": "https://bitgrit.net/competition/27",
+      "tags": [
+        "nlp",
+        "classification",
+        "supervised",
+        "measurable"
+      ],
+      "launched": "1 Apr 2026",
+      "registration-deadline": "31 May 2026",
+      "deadline": "31 May 2026",
+      "prize": "$3,000",
+      "platform": "Bitgrit",
+      "sponsor": "Bitgrit",
       "conference": null,
       "conference_year": null
     }

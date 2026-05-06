@@ -6308,7 +6308,7 @@
         "game",
         "pvp",
         "reinforcement learning",
-        "measurable"        
+        "measurable"
       ],
       "launched": "16 Apr 2026",
       "registration-deadline": "16 Jun 2026",
@@ -6316,6 +6316,25 @@
       "prize": "$50,000",
       "platform": "Kaggle",
       "sponsor": "Kaggle",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Predict Geology in Horizontal Subsurface Segments",
+      "url": "https://www.kaggle.com/competitions/rogii-wellbore-geology-prediction?ref=mlcontests",
+      "tags": [
+        "geo",
+        "multimodal",
+        "regression",
+        "supervised",
+        "measurable"
+      ],
+      "launched": "5 May 2026",
+      "registration-deadline": "29 Jul 2026",
+      "deadline": "5 Aug 2026",
+      "prize": "$50,000",
+      "platform": "Kaggle",
+      "sponsor": "ROGII",
       "conference": null,
       "conference_year": null
     },

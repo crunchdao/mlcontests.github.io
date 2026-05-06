@@ -103,8 +103,8 @@
       "prize": "$12,000",
       "platform": "CrunchDAO",
       "sponsor": "Eric and Wendy Schmidt Center",
-      "conference": null,
-      "conference_year": null
+      "conference": "https://events.zoom.us/egj/AviNQoyXkI53omXr5K-Nm-7HEWwUbO72ISftYGti-zP4qZJg7fJm~A11jVpJ_Mxa68cex-0qgYciyiK1UbB6gj-i8wlyc2yYc3AzUtV-DoqsjugKJQ",
+      "conference_year": 2026
     },
     {
       "name": "Predict Cross-sectional Equity Returns",
@@ -144,8 +144,8 @@
       "prize": "$12,000",
       "platform": "CrunchDAO",
       "sponsor": "Eric and Wendy Schmidt Center",
-      "conference": null,
-      "conference_year": null
+      "conference": "https://events.zoom.us/egj/AviNQoyXkI53omXr5K-Nm-7HEWwUbO72ISftYGti-zP4qZJg7fJm~A11jVpJ_Mxa68cex-0qgYciyiK1UbB6gj-i8wlyc2yYc3AzUtV-DoqsjugKJQ",
+      "conference_year": 2026
     },
     {
       "name": "Falcon: Price-Like Timeseries Forecasting",

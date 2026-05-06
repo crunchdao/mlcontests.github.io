@@ -4,12 +4,11 @@
       "name": "Detect Structural Breaks in Real-Time Time Series Data",
       "url": "https://hub.crunchdao.com/competitions/structural-break-real-time?ref=mlcontests",
       "tags": [
-        "supervised",
-        "real-time",
+        "climate",
+        "finance",
+        "healthcare",
         "timeseries",
-        "forecasting",
-        "measurable",
-        "finance"
+        "forecasting"
       ],
       "launched": "6 May 2026",
       "registration-deadline": "31 Dec 2026",

@@ -6230,6 +6230,25 @@
       "conference_year": null
     },
     {
+      "name": "Multilingual Health QA in Low-Resource African Languages",
+      "url": "https://zindi.africa/competitions/multilingual-health-question-answering-in-low-resource-african-languages-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
+      "tags": [
+        "supervised",
+        "nlp",
+        "llm",
+        "languages",
+        "healthcare"
+      ],
+      "launched": "30 Apr 2026",
+      "registration-deadline": "20 Jun 2026",
+      "deadline": "21 Jun 2026",
+      "prize": "$5,000",
+      "platform": "Zindi",
+      "sponsor": "ITU, Hash",
+      "conference": null,
+      "conference_year": null
+    },
+    {
       "name": "ARC Prize 2026 - Paper Track",
       "url": "https://www.kaggle.com/competitions/arc-prize-2026-paper-track?ref=mlcontests",
       "tags": [
@@ -6316,6 +6335,24 @@
       "prize": "$50,000",
       "platform": "Kaggle",
       "sponsor": "ROGII",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Identify Harmful LLM Outputs",
+      "url": "https://bitgrit.net/competition/27",
+      "tags": [
+        "nlp",
+        "classification",
+        "supervised",
+        "measurable"
+      ],
+      "launched": "1 Apr 2026",
+      "registration-deadline": "31 May 2026",
+      "deadline": "31 May 2026",
+      "prize": "$3,000",
+      "platform": "Bitgrit",
+      "sponsor": "Bitgrit",
       "conference": null,
       "conference_year": null
     }

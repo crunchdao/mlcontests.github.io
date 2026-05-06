@@ -128,26 +128,6 @@
       "conference_year": null
     },
     {
-      "name": "Detect Structural Breaks in Time Series Data",
-      "url": "https://hub.crunchdao.com/competitions/structural-break-open-benchmark?ref=mlcontests",
-      "tags": [
-        "supervised",
-        "tabular",
-        "timeseries",
-        "forecasting",
-        "measurable",
-        "finance"
-      ],
-      "launched": "18 Dec 2025",
-      "registration-deadline": "31 Dec 2026",
-      "deadline": "31 Dec 2026",
-      "prize": "$24,000",
-      "platform": "CrunchDAO",
-      "sponsor": "ADIA Lab",
-      "conference": null,
-      "conference_year": null
-    },
-    {
       "name": "Identify Genes Driving Metabolic Diseases (Part 1)",
       "url": "https://hub.crunchdao.com/competitions/broad-obesity-1?ref=mlcontests",
       "tags": [

@@ -6307,7 +6307,7 @@
         "geo",
         "multimodal",
         "regression",
-        "supervised:,
+        "supervised",
         "measurable"
       ],
       "launched": "5 May 2026",

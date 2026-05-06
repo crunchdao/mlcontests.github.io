@@ -6301,13 +6301,14 @@
       "conference_year": null
     },
     {
-      "name": "ROGII - Wellbore Geology Prediction",
+      "name": "Predict Geology in Horizontal Subsurface Segments",
       "url": "https://www.kaggle.com/competitions/rogii-wellbore-geology-prediction?ref=mlcontests",
       "tags": [
-        "geology",
+        "geo",
         "multimodal",
-        "evaluation",
-        "mean squared error"
+        "regression",
+        "supervised:,
+        "measurable"
       ],
       "launched": "5 May 2026",
       "registration-deadline": "29 Jul 2026",
